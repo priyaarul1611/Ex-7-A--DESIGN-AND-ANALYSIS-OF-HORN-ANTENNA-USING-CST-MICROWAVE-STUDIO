@@ -34,7 +34,6 @@ U a L  2 we get a=110 mm for both E and H plane. 8
 
 **OUTPUT:**
 
-
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/9d82308e-c5c1-4cee-83ff-df06114640cb" />
 
 
