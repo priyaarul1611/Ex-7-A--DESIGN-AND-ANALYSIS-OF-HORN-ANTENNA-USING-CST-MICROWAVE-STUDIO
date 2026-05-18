@@ -18,25 +18,19 @@ sing
 U a L  2 we get a=110 mm for both E and H plane. 8
 
 ####  Design of Horn Antenna
-
 <img width="580" height="172" alt="image" src="https://github.com/user-attachments/assets/dd62533a-f4c7-415e-9abd-23d885f971f6" />
 
 #### S11 characteristics
-
 <img width="624" height="189" alt="image" src="https://github.com/user-attachments/assets/f638677b-c9c9-4941-9e6e-e222d75f7861" />
 
 ####  Directive gain
 <img width="624" height="188" alt="image" src="https://github.com/user-attachments/assets/e5cfb6bb-c640-4786-a793-6c48df48a552" />
 
 #### Radiation Patterns and Half power beam width
-
 <img width="624" height="375" alt="image" src="https://github.com/user-attachments/assets/c7538f76-bbe6-49fc-8d7b-e8015ea19215" />
 
-**OUTPUT:**
-
+# OUTPUT:
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/9d82308e-c5c1-4cee-83ff-df06114640cb" />
-
-
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/17c63c85-a2bd-4aae-91ed-84ceadb409fe" />
 
 
